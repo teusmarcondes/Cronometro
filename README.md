@@ -5,4 +5,4 @@ O projeto foi desenvolvido através da linguagem de marcação HTML, que tem tod
 
 Graças ao curso do alura e a explicação da professora eu consegui concluir o projeto com êxito e queria agradecer a minha escola que me deu a oportunidade através da matéria de programação, eu consegui essa oportunidade de aprender, algo que me motivou foi porque a programação é uma área que eu gosto e que gostaria de cursar futuramente.
 
-Link do site: https://sou7s.github.io/Cronometro/
+Link do site: https://souteus.github.io/Cronometro/
